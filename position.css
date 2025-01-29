@@ -1,0 +1,20 @@
+.p1{
+    position: sticky;
+    border: 2px solid plum;
+    top: 30px;
+}
+.p2{
+    position: sticky;
+    top: 20px;
+    border: 2px solid lightcoral;
+}
+.p3{
+    position: sticky;
+    top: 20px;
+    border: 2px solid plum;
+}
+.p4{
+    position: sticky;
+    top: 20px;
+    border: 2px solid lightcoral;
+}
